@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192.22043759677732mm"
+   height="192.2204528555671mm"
+   viewBox="0 0 192.22043759677732 192.2204528555671"
+   id="svg3423"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="andreas-decke.svg">
+  <metadata
+     id="metadata3435">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3433" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
+     id="namedview3431"
+     showgrid="false"
+     inkscape:zoom="0.17325014"
+     inkscape:cx="113.05266"
+     inkscape:cy="271.48665"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3423" />
+  <title
+     id="title3425">Bezier Curve : BezierCircle.006</title>
+  <desc
+     id="desc3427">This is an exported Bezier xml_path from Blender, using the ExportScript by maybites.ch and Craxic</desc>
+  <rect
+     style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.25946653px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="rect3350"
+     width="499.74051"
+     height="499.74057"
+     x="13.211138"
+     y="-153.76006" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M275.20983211517375,96.11022949218822 C275.20983211517375,96.11022949218822 288.33036954256505,109.23079743715908 288.33036954256505,109.23079743715908 C288.33036954256505,109.23079743715908 288.3306442007812,275.2098550033581 288.3306442007812,275.2098550033581 C288.3306442007812,275.2098550033581 275.21007625581035,288.3303924307494 275.21007625581035,288.3303924307494 C275.21007625581035,288.3303924307494 109.23101868961136,288.3306823477553 109.23101868961136,288.3306823477553 C109.23101868961136,288.3306823477553 96.11048126222008,275.2101144027845 96.11048126222008,275.2101144027845 C96.11048126222008,275.2101144027845 96.1102066040039,109.23101868961099 96.1102066040039,109.23101868961099 C96.1102066040039,109.23101868961099 109.23077454897476,96.11048126221971 109.23077454897476,96.11048126221971 C109.23077454897476,96.11048126221971 275.20983211517375,96.11022949218822 275.20983211517375,96.11022949218822 Z "
+     id="path3429" />
+</svg>
